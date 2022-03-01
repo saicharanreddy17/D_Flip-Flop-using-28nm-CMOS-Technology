@@ -3,7 +3,7 @@ This respossitory presents the design and implemenataion of a D Flip-Flop on Syn
 # Table Of Content <br/>
 * [Abstract](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#Abstract)</br>
 * [Introduction](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#Introduction)<br/>
-* [D FLIP FLOP CIRCUIT DESIGN](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#D-FLIP-FLOP-CIRCUIT-DESIGN)<br/>
+* [D Flip Flop Ciruit Design](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#D-Flip-Flop-Ciruit-Design)<br/>
 * [CMOS D Flip Flop](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#cmos-d-flip-flop)<br/>
 * [Tool used](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#tool-used)<br/>
 * [Schematic](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#schematic)<br/>
