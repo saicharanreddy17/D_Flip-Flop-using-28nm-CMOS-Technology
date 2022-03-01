@@ -56,7 +56,7 @@ Waveforms generated after implimentation<br/>
 Netlist for the D flip flop circuit can be viewed [here](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/blob/main/Netlist.spi)<br/>
 # Author</br>
 [Baddi Sai Charan Reddy](https://www.linkedin.com/in/sai-charan-reddy-b-29a3481a1),<br/> 
-BTech in Electronics and Communication Engineering at B V Raju Institute of Technology, Narsapur, Telangana.502313.</br>
+BTech in Electronics and Communication Engineering at B V Raju Institute of Technology, Narsapur, Telangana,502313.</br>
 # Acknowledgements</br>
 [Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/)<br/>
 [Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)<br/>
