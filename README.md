@@ -34,7 +34,9 @@ The input D and D* are given in both sides , since it is a advancement of JK fli
 *Synopsys 28nm PDK*:  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above circuit design.<br/>
 # Schematic</br>
 D flip flop design in Synopsys Custom Compiler tool<br/>
-![Schematic](https://user-images.githubusercontent.com/62325785/156095140-b136b98f-819a-4037-ba21-72d7185f49ab.png)<br/>
+![D FF Sch](https://user-images.githubusercontent.com/62325785/156106192-8958fcef-3e25-45cb-ad74-017584758d77.png)<br/>
+# Symbol</br>
+Symbol created from the D flip flop design is<br/>
 
 
 
