@@ -41,26 +41,18 @@ Symbol created from the D flip flop design is<br/>
 # Test bench schematic<br/>
 Schemaic designed to similate<br/>
 ![TB_schematic](https://user-images.githubusercontent.com/62325785/156106234-b7f8342f-ef00-414a-987f-23290675d4c0.png)<br/>
-# Waveforms
+# Waveforms<br/>
 Waveforms generated after implimentation<br/>
 ![Schematic waveforms](https://user-images.githubusercontent.com/62325785/156106216-872c7613-fd85-4b51-8a1b-2bd5fe49366a.png)<br/>
-# Netlist
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Netlist<br/>
+Netlist for the D flip flop circuit can be viewed [here](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/blob/main/Netlist.spi)<br/>
+# Author</br>
+Baddi Sai Charan Reddy ,
+BTech in Electronics and Communication Engineering at B V Raju Institute of Technology, Narsapur, Telangana.502313.</br>
+# Acknowledgements </br>
+[Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/)<br/>
+[Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)<br/>
+[Synopsys India](https://www.synopsys.com/)<br/>
+# Refernce<br/>
+1.https://electronics.stackexchange.com/questions/401240/cmos-implementation-of-d-flip-flop<br/>
+2.1.	Design of CMOS Based D Flip-Flop with Different Low Power techniques<br/>
