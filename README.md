@@ -40,7 +40,7 @@ D flip flop design in Synopsys Custom Compiler tool<br/>
 Symbol created from the D flip flop design is<br/>
 ![symbol](https://user-images.githubusercontent.com/62325785/156106206-87a80a2d-19b0-4b26-82c3-2b8c7c7cbe53.png)<br/>
 # Test bench schematic<br/>
-Schemaic designed to similate<br/>
+Schematic designed to simulate<br/>
 ![TB_schematic](https://user-images.githubusercontent.com/62325785/156106234-b7f8342f-ef00-414a-987f-23290675d4c0.png)<br/>
 # PrimeWave<br/>
 PrimeWave window is opened to simulate<br/>
