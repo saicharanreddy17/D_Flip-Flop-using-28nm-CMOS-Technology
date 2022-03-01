@@ -9,7 +9,7 @@ This respossitory presents the design and implemenataion of a D Flip-Flop on Syn
 * [Schematic](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#Schematic)<br/>
 * [Symbol](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#Symbol)<br/>
 * [Test bench Schematic](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#Test-bench-Schematic)<br/>
-* [Power Calculations](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#power-calculations)<br/>
+* [Waveforms](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#Waveforms)<br/>
 * [Netlist](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#netlist)<br/>
 * [Author](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#author)<br/>
 * [Acknowledgements](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#Acknowledgements)<br/>
@@ -43,6 +43,10 @@ Schemaic designed to similate<br/>
 ![TB_schematic](https://user-images.githubusercontent.com/62325785/156106234-b7f8342f-ef00-414a-987f-23290675d4c0.png)<br/>
 # Waveforms
 Waveforms generated after implimentation<br/>
+![Schematic waveforms](https://user-images.githubusercontent.com/62325785/156106216-872c7613-fd85-4b51-8a1b-2bd5fe49366a.png)<br/>
+# Netlist
+
+
 
 
 
