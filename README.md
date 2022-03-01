@@ -13,7 +13,7 @@ This respossitory presents the design and implemenataion of a D Flip-Flop on Syn
 * [Netlist](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#netlist)<br/>
 * [Author](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#author)<br/>
 * [Acknowledgements](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#acknowledgements)<br/>
-* [Refernce](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#refernce)<br/>
+* [Reference](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#reference)<br/>
 # Abstract<br/>
 D Flipflop using 28nm CMOS Technology using Synopsys Tools, D Flipflop is a modified version of JK Flipflop in which it has only one input D, this input is connected to directly connected to J and inverted D is connected to K of JK Flipflop. It has two Outputs namely Q and Q*.D flipflop functionality is to gives the same output as the input. We can implement, design, and obtain the waveform using Synopsys custom design platform. The whole design is based on CMOS technology which features high speed, low power, small size, low cost.<br/>
 # Introduction<br/>
@@ -53,6 +53,6 @@ BTech in Electronics and Communication Engineering at B V Raju Institute of Tech
 [Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/)<br/>
 [Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)<br/>
 [Synopsys India](https://www.synopsys.com/)<br/>
-# Refernce<br/>
+# Reference<br/>
 1.https://electronics.stackexchange.com/questions/401240/cmos-implementation-of-d-flip-flop<br/>
 2.Design of CMOS Based D Flip-Flop with Different Low Power techniques<br/>
