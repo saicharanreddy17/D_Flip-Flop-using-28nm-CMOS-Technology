@@ -21,12 +21,12 @@ D Flipflop using 28nm CMOS Technology using Synopsys Tools, D Flipflop is a modi
 D flipflop is a modified version of JK flipflop in which k terminal is given inverted value of D and basic memory unit which stores data of 1-bit is called flipflop. D flip-flop has one D input and a clocked input. D flip-flop is also called as delay flipflop.D flip-flop is edge triggered sequentail block , the main applications of D flip-flop is to introduce time delay in circuit just like a buffer and acts a 1 bit storage element.</br>
 ![DFlipflop_gate](https://user-images.githubusercontent.com/62325785/156086317-e4d58c2d-ce07-412e-bb98-83d194ee7083.png)<br/>
 # D Flip Flop Ciruit Design<br/>
-If the reset pin of D flip-flop is high the flip-flop is set to zero and the ouput will be zero, aaif the reset pin is zero and Whenever the clock input is high, (1)  D=0, the output of the flipflop will be active low Q=0 and Q* = 1, (2) when  D=1, the output of the flipflop is active high Q=1and Q*= 0.
+If the reset pin of D flip-flop is high the flip-flop is set to low and the ouput will be zero, if the reset pin is zero and Whenever the clock input is high, (1)  D=0, the output of the flipflop will be active low Q=0 and Q* = 1, (2) when  D=1, the output of the flipflop is active high Q=1and Q*= 0.
 As the output represents the input data D Flipflop is also called a “transparent flipflop”.
 The truth table of the D flip-flop is <br/>
 ![dtruth](https://user-images.githubusercontent.com/62325785/156086466-b95d562e-abcb-46a0-a6e0-660b9f82dee1.png)<br/>
 # CMOS D Flip FLop</br>
-D flip-flop can be built in different methods by using NAND and NOR gate. In this project a D flip flop is designed and implemented using NOR and AND gates. This design is further designed in TRansisitor level as shown below<br/>
+D flip-flop can be built in different methods by using NAND and NOR gate. In this project a D flip flop is designed and implemented using NOR and AND gates. This design is further designed in Transisitor level as shown below<br/>
 ![dflipflop](https://user-images.githubusercontent.com/62325785/156088504-51bb3694-41a5-4ee4-bde2-da4725b1f8a8.png)<br/>
 The input D and D* are given in both sides , since it is a advancement of JK flipflop the outputs Q and Q* are connected inversely to the inputs D and D* and the ouput will be collected from Q and Q*.<br/>
 # Tool used</br>
