@@ -26,13 +26,17 @@ The truth table of the D flip-flop is <br/>
 ![dtruth](https://user-images.githubusercontent.com/62325785/156086466-b95d562e-abcb-46a0-a6e0-660b9f82dee1.png)<br/>
 # CMOS D Flip FLop </br>
 D flip-flop can be built in different methods by using NAND and NOR gate. In this project a D flip flop is designed and implemented using NOR and AND gates. This design is further designed in TRansisitor level as shown below<br/>
-![dflipflop](https://user-images.githubusercontent.com/62325785/156088504-51bb3694-41a5-4ee4-bde2-da4725b1f8a8.png)
+![dflipflop](https://user-images.githubusercontent.com/62325785/156088504-51bb3694-41a5-4ee4-bde2-da4725b1f8a8.png)<br/>
 The input D and D* are given in both sides , since it is a advancement of JK flipflop the outputs Q and Q* are connected inversely to the inputs D and D* and the ouput will be collected from Q and Q*.<br/>
 # Tool used</br>
 *Synopsys Custom Compiler*:  The Synopsys Custom Compiler™ design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. The above CMOS level cicruit is designed by using this tool.<br/>
 *Synopsys Primewave*:  PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. With the help of the tool the above CMOS ciruit is simulated.<br/>
 *Synopsys 28nm PDK*:  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above circuit design.<br/>
 # Schematic</br>
+D flip flop design in Synopsys Custom Compiler tool<br/>
+![Schematic](https://user-images.githubusercontent.com/62325785/156095140-b136b98f-819a-4037-ba21-72d7185f49ab.png)<br/>
+
+
 
 
 
