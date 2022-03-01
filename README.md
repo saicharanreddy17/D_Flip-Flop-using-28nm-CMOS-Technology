@@ -22,7 +22,7 @@ D flipflop is a modified version of JK flipflop in which k terminal is given inv
 ![DFlipflop_gate](https://user-images.githubusercontent.com/62325785/156086317-e4d58c2d-ce07-412e-bb98-83d194ee7083.png)<br/>
 # D Flip Flop Ciruit Design<br/>
 If the reset pin of D flip-flop is high the flip-flop is set to low and the ouput will be zero, if the reset pin is low and Whenever the clock input is high, (1)  D=0, the output of the flipflop will be active low Q=0 and Q* = 1, (2) when  D=1, the output of the flipflop is active high Q=1and Q*= 0.
-As the output represents the input data D Flipflop is also called a “transparent flipflop”.
+As the output represents the input data D Flipflop so it is also called as “transparent flipflop”.
 The truth table of the D flip-flop is <br/>
 ![dtruth](https://user-images.githubusercontent.com/62325785/156086466-b95d562e-abcb-46a0-a6e0-660b9f82dee1.png)<br/>
 # CMOS D Flip FLop</br>
