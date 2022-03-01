@@ -44,6 +44,9 @@ Schemaic designed to similate<br/>
 ![TB_schematic](https://user-images.githubusercontent.com/62325785/156106234-b7f8342f-ef00-414a-987f-23290675d4c0.png)<br/>
 # PrimeWave<br/>
 PrimeWave window is opened to simulate<br/>
+![primewave window](https://user-images.githubusercontent.com/62325785/156117231-3d783c74-c44c-4590-b095-acd36f70ba17.png)
+Model file selection<br/>
+
 
 # Waveforms<br/>
 Waveforms generated after implimentation<br/>
