@@ -6,13 +6,13 @@ This respossitory presents the design and implemenataion of a D Flip-Flop on Syn
 * [D FLIP FLOP CIRCUIT DESIGN](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#d-flip-flop-ciruit-design)<br/>
 * [CMOS D Flip Flop](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#cmos-d-flip-flop)<br/>
 * [Tool used](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#tool-used)<br/>
-* [Schematic](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#Schematic)<br/>
-* [Symbol](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#Symbol)<br/>
-* [Test bench Schematic](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#Test-bench-Schematic)<br/>
+* [Schematic](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#schematic)<br/>
+* [Symbol](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#symbol)<br/>
+* [Test bench Schematic](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#test-bench-schematic)<br/>
 * [Waveforms](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#waveforms)<br/>
 * [Netlist](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#netlist)<br/>
 * [Author](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#author)<br/>
-* [Acknowledgements](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#Acknowledgements)<br/>
+* [Acknowledgements](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#acknowledgements)<br/>
 * [Refernce](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#refernce)<br/>
 # Abstract<br/>
 D Flipflop using 28nm CMOS Technology using Synopsys Tools, D Flipflop is a modified version of JK Flipflop in which it has only one input D, this input is connected to directly connected to J and inverted D is connected to K of JK Flipflop. It has two Outputs namely Q and Q*.D flipflop functionality is to gives the same output as the input. We can implement, design, and obtain the waveform using Synopsys custom design platform. The whole design is based on CMOS technology which features high speed, low power, small size, low cost.<br/>
