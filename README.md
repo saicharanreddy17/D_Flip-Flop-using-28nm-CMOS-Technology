@@ -15,7 +15,9 @@ This respossitory presents the design and implemenataion of a D Flip-Flop on Syn
 * [Refernce](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#refernce)<br/>
 # Abstract<br/>
 D Flipflop using 28nm CMOS Technology using Synopsys Tools, D Flipflop is a modified version of JK Flipflop in which it has only one input D, this input is connected to directly connected to J and inverted D is connected to K of JK Flipflop. It has two Outputs namely Q and Q*.D flipflop functionality is to gives the same output as the input. We can implement, design, and obtain the waveform using Synopsys custom design platform. The whole design is based on CMOS technology which features high speed, low power, small size, low cost.<br/>
-#Introduction<br/>
+# Introduction<br/>
+
+
 
 
 
