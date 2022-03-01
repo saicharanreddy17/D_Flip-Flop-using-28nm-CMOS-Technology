@@ -9,6 +9,7 @@ This respossitory presents the design and implemenataion of a D Flip-Flop on Syn
 * [Schematic](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#schematic)<br/>
 * [Symbol](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#symbol)<br/>
 * [Test bench Schematic](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#test-bench-schematic)<br/>
+* [PrimeWave](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#PrimeWave)<br/>
 * [Waveforms](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#waveforms)<br/>
 * [Netlist](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#netlist)<br/>
 * [Author](https://github.com/saicharanreddy17/D_Flip-Flop-using-28nm-CMOS-Technology/edit/main/README.md#author)<br/>
@@ -41,6 +42,9 @@ Symbol created from the D flip flop design is<br/>
 # Test bench schematic<br/>
 Schemaic designed to similate<br/>
 ![TB_schematic](https://user-images.githubusercontent.com/62325785/156106234-b7f8342f-ef00-414a-987f-23290675d4c0.png)<br/>
+# PrimeWave<br/>
+PrimeWave window is opened to simulate<br/>
+
 # Waveforms<br/>
 Waveforms generated after implimentation<br/>
 ![Schematic waveforms](https://user-images.githubusercontent.com/62325785/156106216-872c7613-fd85-4b51-8a1b-2bd5fe49366a.png)<br/>
