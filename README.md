@@ -37,6 +37,10 @@ D flip flop design in Synopsys Custom Compiler tool<br/>
 ![D FF Sch](https://user-images.githubusercontent.com/62325785/156106192-8958fcef-3e25-45cb-ad74-017584758d77.png)<br/>
 # Symbol</br>
 Symbol created from the D flip flop design is<br/>
+![symbol](https://user-images.githubusercontent.com/62325785/156106206-87a80a2d-19b0-4b26-82c3-2b8c7c7cbe53.png)<br/>
+# Test bench schematic<br/>
+
+
 
 
 
