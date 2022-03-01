@@ -55,4 +55,4 @@ BTech in Electronics and Communication Engineering at B V Raju Institute of Tech
 [Synopsys India](https://www.synopsys.com/)<br/>
 # Refernce<br/>
 1.https://electronics.stackexchange.com/questions/401240/cmos-implementation-of-d-flip-flop<br/>
-2.1.	Design of CMOS Based D Flip-Flop with Different Low Power techniques<br/>
+2.Design of CMOS Based D Flip-Flop with Different Low Power techniques<br/>
