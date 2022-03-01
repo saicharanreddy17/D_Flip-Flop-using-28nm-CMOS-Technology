@@ -1,0 +1,73 @@
+*  Generated for: PrimeSim
+*  Design library name: sc_lib1
+*  Design cell name: D_flipflop_tb
+*  Design view name: schematic
+.lib '/PDK/SAED_PDK32nm/hspice/saed32nm.lib' TT
+
+*Custom Compiler Version S-2021.09
+*Tue Mar  1 05:10:20 2022
+
+.global gnd!
+********************************************************************************
+* Library          : sc_lib1
+* Cell             : D_flipflop
+* View             : schematic
+* View Search List : hspice hspiceD schematic spice veriloga
+* View Stop List   : hspice hspiceD
+********************************************************************************
+.subckt d_flipflop din dinbar clk gnd_1 q qbar vdd
+xm5 net8 q qbar vdd p105 w=0.1u l=0.03u nf=1 m=1
+xm4 q qbar net15 vdd p105 w=0.1u l=0.03u nf=1 m=1
+xm3 net15 clk vdd vdd p105 w=0.1u l=0.03u nf=1 m=1
+xm2 vdd dinbar net15 vdd p105 w=0.1u l=0.03u nf=1 m=1
+xm1 vdd clk net8 vdd p105 w=0.1u l=0.03u nf=1 m=1
+xm0 net8 din vdd vdd p105 w=0.1u l=0.03u nf=1 m=1
+xm11 gnd_1 clk net46 gnd_1 n105 w=0.1u l=0.03u nf=1 m=1
+xm10 net46 dinbar q gnd_1 n105 w=0.1u l=0.03u nf=1 m=1
+xm9 gnd_1 q qbar gnd_1 n105 w=0.1u l=0.03u nf=1 m=1
+xm8 q qbar gnd_1 gnd_1 n105 w=0.1u l=0.03u nf=1 m=1
+xm7 net29 clk gnd_1 gnd_1 n105 w=0.1u l=0.03u nf=1 m=1
+xm6 qbar din net29 gnd_1 n105 w=0.1u l=0.03u nf=1 m=1
+.ends d_flipflop
+
+********************************************************************************
+* Library          : sc_lib1
+* Cell             : D_flipflop_tb
+* View             : schematic
+* View Search List : hspice hspiceD schematic spice veriloga
+* View Stop List   : hspice hspiceD
+********************************************************************************
+xi0 net10 net12 net15 gnd! q qbar net8 d_flipflop
+v1 net8 gnd! dc=1
+v4 net15 gnd! dc=0 pulse ( 0 1 0.0001n 0.0001n 0.0001n '50ns' '100ns' )
+v3 net12 gnd! dc=0 pulse ( 0 1 0.0001n 0.0001n 0.0001n 40n 100n )
+v2 net10 gnd! dc=0 pulse ( 1 0 0.0001n 0.0001n 0.0001n 40n 100n )
+
+
+
+
+
+
+
+
+.tran '10n' '500n' name=tran
+
+.option primesim_remove_probe_prefix = 0
+.probe v(*) i(*) level=1
+.probe tran v(net10) v(net12) v(net15) v(q) v(qbar)
+
+.temp 25
+
+
+
+.option primesim_output=wdf
+
+
+.option parhier = LOCAL
+
+
+
+
+
+
+.end
