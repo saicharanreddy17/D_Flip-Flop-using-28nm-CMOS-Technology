@@ -48,7 +48,7 @@ PrimeWave window is opened to simulate<br/>
 Model file selection<br/>
 ![model files](https://user-images.githubusercontent.com/62325785/156117328-e94c47f8-23c8-43a5-807a-eda5ef5a5090.png)<br/>
 Transient Analysis window<br/>
-
+![transient analysis](https://user-images.githubusercontent.com/62325785/156117349-583c2bbb-f691-49cd-bb24-98adeb62b17c.png)<br/>
 # Waveforms<br/>
 Waveforms generated after implimentation<br/>
 ![Schematic waveforms](https://user-images.githubusercontent.com/62325785/156106216-872c7613-fd85-4b51-8a1b-2bd5fe49366a.png)<br/>
