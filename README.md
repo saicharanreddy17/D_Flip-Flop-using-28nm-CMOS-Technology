@@ -23,6 +23,9 @@ As the output represents the input data D Flipflop is also called a “transpare
 The truth table of the D flip-flop is <br/>
 ![dtruth](https://user-images.githubusercontent.com/62325785/156086466-b95d562e-abcb-46a0-a6e0-660b9f82dee1.png)<br/>
 # CMOS D Flip FLop </br>
+D flip-flop can be built in different ways 
+![dflipflop](https://user-images.githubusercontent.com/62325785/156088504-51bb3694-41a5-4ee4-bde2-da4725b1f8a8.png)
+
 
 
 
